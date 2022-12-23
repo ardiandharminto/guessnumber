@@ -1,2 +1,2 @@
 # guessnumber
-Guessing number game only with vanilla javascript
+Number guessing game using only vanilla javascript
